@@ -1,0 +1,174 @@
+.div{
+    margin:0%;
+}
+
+p{
+    margin: 0%;
+    font-size:3.5vw;
+}
+
+.my-wrapper{
+    height: auto;
+    max-height: 80%;
+}
+
+.color-pink{
+    background-color: #f4a3ae;
+}
+
+.color-blue{
+    background-color: #020C30;
+}
+
+.color-white{
+    background-color: white;
+}
+
+p.customfont{
+    font-size: 3vw;
+    font-family: 'Inter', sans-serif;
+    
+}
+
+p.customfont1{
+    color: white;
+    font-size: 2.8vw;
+    font-weight: bold;
+    font-family: 'Inter', sans-serif;
+    line-height: 48px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+p.customfont2{
+    color: white;
+    font-size: 2.8vw;
+    font-weight: bold;
+    font-family: 'Inter', sans-serif;
+}
+
+p.customfont3{
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    font-family: 'Inter', sans-serif;
+}
+
+p.customfont4{
+    font-size: 3.8vw;
+    font-weight: bold;
+    color: white;
+    font-family: 'Inter', sans-serif;
+}
+
+p.roboto-w{
+    font-size: 25px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.roboto-w2{
+    font-size: 20px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.c1{
+    margin:0%;
+    background-color: #020C30;
+    height: auto;
+    width: auto;
+}
+
+.c2{
+    background-color: white;
+    height: 250px;
+}
+
+.c4{
+    background-color: #181b3b;
+    height: 300px;
+    color: white;
+}
+
+.c6{
+    color: white;
+    background-color: #181b3b;
+    
+}
+
+.c6-div{
+    background-image: url(../../../assets/c6-background.png);
+    max-width: 40%;
+    height: auto;
+}
+
+.responsive {
+    max-width: 100%;
+    height: auto;
+  }
+
+.logo{
+    max-width: 65%;
+    height: auto;
+}
+
+.graphic{
+    max-width:50%;
+    height: auto;
+}
+
+.graphic2{
+    max-width:60%;
+    height: auto;
+}
+
+.btn-small{
+    background-color: #f4a3ae;
+    margin: 10px;
+    width: 200px;
+    border-radius: 12px 12px;
+}
+
+.card{
+    height: 400px;
+    background-color: #F5F5F5;
+}
+
+.card-content{
+    background-color: #F5F5F5;
+}
+
+.card-action{
+    background-color: #F5F5F5;
+}
+
+.card-font1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+
+}
+
+.card-font2{
+    color: #E97179;
+}
+
+.circle {
+    height: 285px;
+    width: 285px;
+    border-radius: 50%;
+    background: linear-gradient(54.49deg, #F4A3AE 16.97%, #E77179 105.5%);
+
+  }
+
+.circle2 {
+    float: right;
+    height: 200px;
+    width: 150px;
+    border-radius: 50% 0% 0% 50%;
+    translate: -5, 1000;
+    background: linear-gradient(30deg, #F4A325 13.39%, #E96100 86.61%);
+
+}
+
