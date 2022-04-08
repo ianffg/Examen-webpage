@@ -1,6 +1,7 @@
 # ExamenWebpage
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
+It also uses the Materialize Framework from Google for the layout design.
 
 ## Development server
 
